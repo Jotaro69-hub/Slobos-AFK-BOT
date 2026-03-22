@@ -8,7 +8,7 @@
   "server": {
     "ip": "Soul_Society-Gox1.aternos.me",
     "port": 39370,
-    "version": "1.21.1"
+    "version": "1.16.5"
   },
   "position": {
     "enabled": true,
